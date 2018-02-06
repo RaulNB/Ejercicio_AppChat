@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/MiGuasa/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/alumno/AndroidStudioProjects/MiGuasa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alumno/AndroidStudioProjects/MiGuasa/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/alumno/AndroidStudioProjects/MiGuasa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
